@@ -22,7 +22,8 @@
 		<option value="JAVA">JAVA</option>
 		<option value="JSP">JSP</option>
 		<option value="XML">XML</option>
-	</select>
+	</select><br>
+	<input type="submit" value="입력완료">
 </form>
 </body>
 </html>
